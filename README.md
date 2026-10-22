@@ -1,0 +1,2 @@
+# FinScope-
+Personal finance tracker 
